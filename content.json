@@ -42,146 +42,147 @@
       "ecole": "LEARN IT",
       "lien": "https://reseau-opencampus.com/learn-it-bachelor-informatique-1-an/"
     },
-        {
+    {
       "type": "Mastere",
       "nom": "MASTERE Manager développement Programmation & Data/IA",
       "lieux": ["Brest", "Angers"],
       "ecole": "LEARN IT",
       "lien": "https://reseau-opencampus.com/learn-it-mastere-informatique/"
-    },    {
+    },
+    {
       "type": "Mastere",
       "nom": "MASTERE Manager Infrastructure, Réseau & Cybersécurité",
       "lieux": ["Brest", "Angers"],
       "ecole": "LEARN IT",
       "lien": "https://reseau-opencampus.com/learn-it-mastere-informatique/"
     },
-        {
+    {
       "type": "Bachelor",
       "nom": "BACHELOR Marketing & Evénementiel sportif",
       "lieux": ["Brest"],
       "ecole": "SCHOOL OF SPORT BUSINESS ",
       "lien": "https://reseau-opencampus.com/school-of-sport-business-bachelor-en-1-an/"
-    },  
-     {
+    },
+    {
       "type": "Mastere",
       "nom": "MASTERE Management de Sport & E-Business",
       "lieux": ["Brest"],
       "ecole": "SCHOOL OF SPORT BUSINESS ",
       "lien": "https://reseau-opencampus.com/school-sport-business-mastere/"
     },
-            {
+    {
       "type": "BTS",
       "nom": "BTS NDRC",
       "lieux": ["Brest","Angers"],
       "ecole": "LA DIGITAL SCHOOL",
       "lien": "https://reseau-opencampus.com/lds-bts-ndrc/"
-    },  
-     {
+    },
+    {
       "type": "Bachelor",
       "nom": "BACHELOR Animation 3D & Game Design",
       "lieux": ["Brest"],
       "ecole": "LA DIGITAL SCHOOL",
       "lien": "https://reseau-opencampus.com/lds-bachelor-animation-3d-et-game-design/"
-    },    
-       {
+    },
+    {
       "type": "Bachelor",
       "nom": "BACHELOR Chef de Projet Digital",
       "lieux": ["Brest","Angers"],
       "ecole": "LA DIGITAL SCHOOL",
       "lien": "https://reseau-opencampus.com/lds-bachelor-chef-de-projet-digital-1an/"
-    },  
-     {
+    },
+    {
       "type": "Mastere",
       "nom": "MASTERE Expert en Digital",
       "lieux": ["Brest","Angers"],
       "ecole": "LA DIGITAL SCHOOL",
       "lien": "https://reseau-opencampus.com/la-digital-school-expert-digital/"
-    },    
-        {
+    },
+    {
       "type": "BTS",
       "nom": "Formation Continue Développeur Integrateur de Médias Interactifs",
       "lieux": ["Brest","Angers"],
       "ecole": "LA DIGITAL SCHOOL",
       "lien": "https://reseau-opencampus.com/la-digital-school-formation-continue/"
     },
-          {
+    {
       "type": "BTS",
       "nom": "BTS Tourisme",
       "lieux": ["Brest","Angers","Caen"],
       "ecole": "Hospitality & Tourism Business School",
       "lien": "https://reseau-opencampus.com/htbs-bts-tourisme/"
-    },  
-     {
+    },
+    {
       "type": "Bachelor",
       "nom": "BACHELOR Marketin Hôtelier & Touristiquel",
       "lieux": ["Brest","Angers","Caen"],
       "ecole": "Hospitality & Tourism Business School",
       "lien": "https://reseau-opencampus.com/htbs-bretagne-bachelor-marketing-hotelier-touristique-1-an/"
-    },    
-        {
+    },
+    {
       "type": "Mastere",
       "nom": "MASTERE Dirigeant Manager en Hôtellerie & Tourisme",
       "lieux": ["Brest","Angers","Caen"],
       "ecole": "Hospitality & Tourism Business School",
       "lien": "https://reseau-opencampus.com/htbs-bretagne-mastere-hotellerie-tourisme/"
     },
-              {
+    {
       "type": "BTS",
       "nom": "BTS Professions Immobilières",
       "lieux": ["Brest","Caen"],
       "ecole": "SUP IMMO",
       "lien": "https://reseau-opencampus.com/sup-immo-bts-professions-immobilieres/"
-    },  
-     {
+    },
+    {
       "type": "Bachelor",
       "nom": "BACHELOR Negociateur Immobilier et Entrepreneuriat Immobilier",
       "lieux": ["Brest", "Caen"],
       "ecole": "SUP IMMO",
       "lien": "https://reseau-opencampus.com/sup-immo-bachelor-en-1-an/"
-    },    
-        {
+    },
+    {
       "type": "Mastere",
       "nom": "MASTERE Dirigeant Manager en Immobilier",
       "lieux": ["Brest","Caen"],
       "ecole": "SUP IMMO",
       "lien": "https://reseau-opencampus.com/sup-immo-mastere-immobilier/"
     },
-         {
+    {
       "type": "Bachelor",
       "nom": "BACHELOR Responsable de Communication",
       "lieux": ["Brest", "Caen"],
       "ecole": "SUP'DE COM",
       "lien": "https://reseau-opencampus.com/supdecom-bachelor-communication/"
-    },    
-        {
+    },
+    {
       "type": "Mastere",
       "nom": "MASTERE Manager de la Communication",
       "lieux": ["Brest","Caen"],
       "ecole": "SUP'DE COM",
       "lien": "https://reseau-opencampus.com/supdecom-mastere-communication/"
     },
-         {
+    {
       "type": "Bachelor",
       "nom": "BACHELOR Styliste Modéliste",
       "lieux": ["Brest", "Caen", "Angers"],
       "ecole": "SUPDEMOD",
       "lien": "https://reseau-opencampus.com/supdemod-bachelor-styliste-modeliste/"
-    },    
-        {
+    },
+    {
       "type": "Mastere",
       "nom": "BACHELOR Marketing de la Mode & du Luxe",
       "lieux": ["Brest","Caen", "Angers"],
       "ecole": "SUP IMMO",
       "lien": "https://reseau-opencampus.com/supdemod-bachelor-marketing-mode-luxe/"
     },
-        {
+    {
       "type": "Mastere",
       "nom": "MASTERE Manager du Développement de Mode et Luxe",
       "lieux": ["Brest","Caen", "Angers"],
       "ecole": "SUPDEMOD",
       "lien": "https://reseau-opencampus.com/supdemod-mastere-manager-developpement-produits-mode-luxe/"
     },
-            {
+    {
       "type": "BTS",
       "nom": "BAC + 2 Responsable de Petite et Moyenne Structure",
       "lieux": ["Brest","Caen"],
