@@ -1,0 +1,23 @@
+[
+  {
+    "type": "BTS",
+    "nom": "BTS Marketing",
+    "lieux": ["Brest", "Caen"],
+    "ecole": "E2SE Marketing Vente",
+    "lien": "https://reseau-opencampus.com/ifag-bts-mco/"
+  },
+  {
+    "type": "Bachelor",
+    "nom": "Bachelor Développement Web",
+    "lieux": ["Caen"],
+    "ecole": "E2SE Digital IT",
+    "lien": "https://reseau-opencampus.com/bachelor-dev/"
+  },
+  {
+    "type": "Mastère",
+    "nom": "Mastère Management Stratégique",
+    "lieux": ["Caen"],
+    "ecole": "E2SE Marketing Vente",
+    "lien": "https://reseau-opencampus.com/mastere-management/"
+  }
+]
