@@ -2,24 +2,127 @@
   "formations": [
     {
       "type": "BTS",
-      "nom": "BTS Marketing",
-      "lieux": ["Brest", "Caen"],
+      "nom": "BTS MCO",
+      "lieux": ["Brest"],
       "ecole": "IFAG",
       "lien": "https://reseau-opencampus.com/ifag-bts-mco/"
     },
     {
       "type": "Bachelor",
-      "nom": "Bachelor Développement Web",
-      "lieux": ["Caen"],
-      "ecole": "LearnIT",
-      "lien": "https://reseau-opencampus.com/bachelor-dev/"
+      "nom": "BACHELOR Responsable d'activité",
+      "lieux": ["Brest"],
+      "ecole": "IFAG",
+      "lien": "https://reseau-opencampus.com/ifag-bachelor-en-1-an/"
     },
     {
       "type": "Mastere",
-      "nom": "Mastère Management Stratégique",
-      "lieux": ["Caen"],
+      "nom": "MASTERE Manager Business Unit",
+      "lieux": ["Brest"],
       "ecole": "IFAG",
-      "lien": "https://reseau-opencampus.com/mastere-management/"
+      "lien": "https://reseau-opencampus.com/ifag-mastere/"
+    },
+    {
+      "type": "BTS",
+      "nom": "BTS SIO",
+      "lieux": ["Brest", "Angers"],
+      "ecole": "LEARN IT",
+      "lien": "https://reseau-opencampus.com/learn-it-bts-sio/"
+    },    {
+      "type": "Bachelor",
+      "nom": "BACHELOR Developpeur, Solution et Application",
+      "lieux": ["Brest", "Angers"],
+      "ecole": "LEARN IT",
+      "lien": "https://reseau-opencampus.com/learn-it-bachelor-informatique-1-an/"
+    },
+        {
+      "type": "Bachelor",
+      "nom": "BACHELOR Administrateur Système et Réseau",
+      "lieux": ["Brest", "Angers"],
+      "ecole": "LEARN IT",
+      "lien": "https://reseau-opencampus.com/learn-it-bachelor-informatique-1-an/"
+    },
+        {
+      "type": "Mastere",
+      "nom": "MASTERE Manager développement Programmation & Data/IA",
+      "lieux": ["Brest", "Angers"],
+      "ecole": "LEARN IT",
+      "lien": "https://reseau-opencampus.com/learn-it-mastere-informatique/"
+    },    {
+      "type": "Mastere",
+      "nom": "MASTERE Manager Infrastructure, Réseau & Cybersécurité",
+      "lieux": ["Brest", "Angers"],
+      "ecole": "LEARN IT",
+      "lien": "https://reseau-opencampus.com/learn-it-mastere-informatique/"
+    },
+        {
+      "type": "Bachelor",
+      "nom": "BACHELOR Marketing & Evénementiel sportif",
+      "lieux": ["Brest"],
+      "ecole": "SCHOOL OF SPORT BUSINESS ",
+      "lien": "https://reseau-opencampus.com/school-of-sport-business-bachelor-en-1-an/"
+    },  
+     {
+      "type": "Mastere",
+      "nom": "MASTERE Management de Sport & E-Business",
+      "lieux": ["Brest"],
+      "ecole": "SCHOOL OF SPORT BUSINESS ",
+      "lien": "https://reseau-opencampus.com/school-sport-business-mastere/"
+    },
+            {
+      "type": "BTS",
+      "nom": "BTS NDRC",
+      "lieux": ["Brest","Angers"],
+      "ecole": "LA DIGITAL SCHOOL",
+      "lien": "https://reseau-opencampus.com/lds-bts-ndrc/"
+    },  
+     {
+      "type": "Bachelor",
+      "nom": "BACHELOR Animation 3D & Game Design",
+      "lieux": ["Brest"],
+      "ecole": "LA DIGITAL SCHOOL",
+      "lien": "https://reseau-opencampus.com/lds-bachelor-animation-3d-et-game-design/"
+    },    
+       {
+      "type": "Bachelor",
+      "nom": "BACHELOR Chef de Projet Digital",
+      "lieux": ["Brest","Angers"],
+      "ecole": "LA DIGITAL SCHOOL",
+      "lien": "https://reseau-opencampus.com/lds-bachelor-chef-de-projet-digital-1an/"
+    },  
+     {
+      "type": "Mastere",
+      "nom": "MASTERE Expert en Digital",
+      "lieux": ["Brest","Angers"],
+      "ecole": "LA DIGITAL SCHOOL",
+      "lien": "https://reseau-opencampus.com/la-digital-school-expert-digital/"
+    },    
+        {
+      "type": "Formation Continue",
+      "nom": "Formation Continue Développeur Integrateur de Médias Interactifs",
+      "lieux": ["Brest","Angers"],
+      "ecole": "LA DIGITAL SCHOOL",
+      "lien": "https://reseau-opencampus.com/la-digital-school-formation-continue/"
+    },
+          {
+      "type": "BTS",
+      "nom": " BTS Tourisme",
+      "lieux": ["Brest","Angers","Caen"],
+      "ecole": "Hospitality & Tourism Business School",
+      "lien": "https://reseau-opencampus.com/htbs-bts-tourisme/"
+    },  
+     {
+      "type": "Bachelor",
+      "nom": "BACHELOR Marketin Hôtelier & Touristiquel",
+      "lieux": ["Brest","Angers","Caen"],
+      "ecole": "Hospitality & Tourism Business School",
+      "lien": "https://reseau-opencampus.com/htbs-bretagne-bachelor-marketing-hotelier-touristique-1-an/"
+    },    
+        {
+      "type": "Mastere",
+      "nom": "MASTERE Dirigeant Manager en Hôtellerie & Tourisme",
+      "lieux": ["Brest","Angers","Caen"],
+      "ecole": "Hospitality & Tourism Business School",
+      "lien": "https://reseau-opencampus.com/htbs-bretagne-mastere-hotellerie-tourisme/"
     }
   ]
 }
