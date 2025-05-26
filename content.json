@@ -27,7 +27,8 @@
       "lieux": ["Brest", "Angers"],
       "ecole": "LEARN IT",
       "lien": "https://reseau-opencampus.com/learn-it-bts-sio/"
-    },    {
+    },
+    {
       "type": "Bachelor",
       "nom": "BACHELOR Developpeur, Solution et Application",
       "lieux": ["Brest", "Angers"],
