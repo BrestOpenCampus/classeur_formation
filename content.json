@@ -11,11 +11,11 @@
       "type": "Bachelor",
       "nom": "Bachelor Développement Web",
       "lieux": ["Caen"],
-      "ecole": "Learn IT",
+      "ecole": "LearnIT",
       "lien": "https://reseau-opencampus.com/bachelor-dev/"
     },
     {
-      "type": "Mastère",
+      "type": "Mastere",
       "nom": "Mastère Management Stratégique",
       "lieux": ["Caen"],
       "ecole": "IFAG",
