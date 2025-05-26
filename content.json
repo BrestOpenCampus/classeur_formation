@@ -1,23 +1,25 @@
 [
-  {
-    "type": "BTS",
-    "nom": "BTS Marketing",
-    "lieux": ["Brest", "Caen"],
-    "ecole": "IFAG",
-    "lien": "https://reseau-opencampus.com/ifag-bts-mco/"
-  },
-  {
-    "type": "Bachelor",
-    "nom": "Bachelor Développement Web",
-    "lieux": ["Caen"],
-    "ecole": "Learn IT",
-    "lien": "https://reseau-opencampus.com/bachelor-dev/"
-  },
-  {
-    "type": "Mastère",
-    "nom": "Mastère Management Stratégique",
-    "lieux": ["Caen"],
-    "ecole": "IFAG",
-    "lien": "https://reseau-opencampus.com/mastere-management/"
-  }
+  "formations": [
+    {
+      "type": "BTS",
+      "nom": "BTS Marketing",
+      "lieux": ["Brest", "Caen"],
+      "ecole": "IFAG",
+      "lien": "https://reseau-opencampus.com/ifag-bts-mco/"
+    },
+    {
+      "type": "Bachelor",
+      "nom": "Bachelor Développement Web",
+      "lieux": ["Caen"],
+      "ecole": "Learn IT",
+      "lien": "https://reseau-opencampus.com/bachelor-dev/"
+    },
+    {
+      "type": "Mastère",
+      "nom": "Mastère Management Stratégique",
+      "lieux": ["Caen"],
+      "ecole": "IFAG",
+      "lien": "https://reseau-opencampus.com/mastere-management/"
+    }
+  ]
 ]
