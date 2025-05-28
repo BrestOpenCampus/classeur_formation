@@ -24,35 +24,35 @@
     {
       "type": "BTS",
       "nom": "BTS SIO",
-      "lieux": ["Brest", "Angers"],
+      "lieux": ["Angers", "Brest"],
       "ecole": "Learn IT",
       "lien": "https://reseau-opencampus.com/learn-it-bts-sio/"
     },
     {
       "type": "Bachelor",
       "nom": "BACHELOR Développeur, Solution et Application",
-      "lieux": ["Brest", "Angers"],
+      "lieux": ["Angers", "Brest"],
       "ecole": "Learn IT",
       "lien": "https://reseau-opencampus.com/learn-it-bachelor-informatique-1-an/"
     },
         {
       "type": "Bachelor",
       "nom": "BACHELOR Administrateur Système et Réseau",
-      "lieux": ["Brest", "Angers"],
+      "lieux": ["Angers", "Brest"],
       "ecole": "Learn IT",
       "lien": "https://reseau-opencampus.com/learn-it-bachelor-informatique-1-an/"
     },
     {
       "type": "Mastere",
       "nom": "MASTERE Manager développement Programmation & Data/IA",
-      "lieux": ["Brest", "Angers"],
+      "lieux": ["Angers", "Brest"],
       "ecole": "Learn IT",
       "lien": "https://reseau-opencampus.com/learn-it-mastere-informatique/"
     },
     {
       "type": "Mastere",
       "nom": "MASTERE Manager Infrastructure, Réseau & Cybersécurité",
-      "lieux": ["Brest", "Angers"],
+      "lieux": ["Angers", "Brest"],
       "ecole": "Learn IT",
       "lien": "https://reseau-opencampus.com/learn-it-mastere-informatique/"
     },
@@ -73,7 +73,7 @@
     {
       "type": "BTS",
       "nom": "BTS NDRC",
-      "lieux": ["Brest","Angers"],
+      "lieux": ["Angers", "Brest"],
       "ecole": "School of Sport Business",
       "lien": "https://reseau-opencampus.com/lds-bts-ndrc/"
     },
@@ -87,35 +87,35 @@
     {
       "type": "Bachelor",
       "nom": "BACHELOR Chef de Projet Digital",
-      "lieux": ["Brest","Angers"],
+      "lieux": ["Angers", "Brest"],
       "ecole": "La Digital School",
       "lien": "https://reseau-opencampus.com/lds-bachelor-chef-de-projet-digital-1an/"
     },
     {
       "type": "Mastere",
       "nom": "MASTERE Expert en Digital",
-      "lieux": ["Brest","Angers"],
+      "lieux": ["Angers", "Brest"],
       "ecole": "La Digital School",
       "lien": "https://reseau-opencampus.com/la-digital-school-expert-digital/"
     },
     {
       "type": "BTS",
       "nom": "BTS Tourisme",
-      "lieux": ["Brest","Angers","Caen"],
+      "lieux": ["Angers", "Brest", "Caen"],
       "ecole": "Hospitality & Tourism Business School",
       "lien": "https://reseau-opencampus.com/htbs-bts-tourisme/"
     },
     {
       "type": "Bachelor",
       "nom": "BACHELOR Marketing Hôtelier & Touristique",
-      "lieux": ["Brest","Angers","Caen"],
+      "lieux": ["Angers", "Brest", "Caen"],
       "ecole": "Hospitality & Tourism Business School",
       "lien": "https://reseau-opencampus.com/htbs-bretagne-bachelor-marketing-hotelier-touristique-1-an/"
     },
     {
       "type": "Mastere",
       "nom": "MASTERE Dirigeant Manager en Hôtellerie & Tourisme",
-      "lieux": ["Brest","Angers","Caen"],
+      "lieux": ["Angers", "Brest", "Caen"],
       "ecole": "Hospitality & Tourism Business School",
       "lien": "https://reseau-opencampus.com/htbs-bretagne-mastere-hotellerie-tourisme/"
     },
@@ -157,21 +157,21 @@
     {
       "type": "Bachelor",
       "nom": "BACHELOR Styliste Modéliste",
-      "lieux": ["Brest", "Caen", "Angers"],
+      "lieux": ["Angers", "Brest", "Caen"],
       "ecole": "SUPDEMOD",
       "lien": "https://reseau-opencampus.com/supdemod-bachelor-styliste-modeliste/"
     },
     {
       "type": "Mastere",
       "nom": "BACHELOR Marketing de la Mode & du Luxe",
-      "lieux": ["Brest","Caen", "Angers"],
+      "lieux": ["Angers", "Brest", "Caen"],
       "ecole": "SUPDEMOD",
       "lien": "https://reseau-opencampus.com/supdemod-bachelor-marketing-mode-luxe/"
     },
     {
       "type": "Mastere",
       "nom": "MASTERE Manager du Développement de Mode et Luxe",
-      "lieux": ["Brest","Caen", "Angers"],
+      "lieux": ["Angers", "Brest", "Caen"],
       "ecole": "SUPDEMOD",
       "lien": "https://reseau-opencampus.com/supdemod-mastere-manager-developpement-produits-mode-luxe/"
     },
