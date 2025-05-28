@@ -30,7 +30,7 @@
     },
     {
       "type": "Bachelor",
-      "nom": "BACHELOR Developpeur, Solution et Application",
+      "nom": "BACHELOR Développeur, Solution et Application",
       "lieux": ["Brest", "Angers"],
       "ecole": "Learn IT",
       "lien": "https://reseau-opencampus.com/learn-it-bachelor-informatique-1-an/"
@@ -128,7 +128,7 @@
     },
     {
       "type": "Bachelor",
-      "nom": "BACHELOR Negociateur Immobilier et Entrepreneuriat Immobilier",
+      "nom": "BACHELOR Négociateur Immobilier et Entrepreneuriat Immobilier",
       "lieux": ["Brest", "Caen"],
       "ecole": "SUP IMMO",
       "lien": "https://reseau-opencampus.com/sup-immo-bachelor-en-1-an/"
