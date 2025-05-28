@@ -100,13 +100,6 @@
     },
     {
       "type": "BTS",
-      "nom": "Formation Continue Développeur Integrateur de Médias Interactifs",
-      "lieux": ["Brest","Angers"],
-      "ecole": "La Digital School",
-      "lien": "https://reseau-opencampus.com/la-digital-school-formation-continue/"
-    },
-    {
-      "type": "BTS",
       "nom": "BTS Tourisme",
       "lieux": ["Brest","Angers","Caen"],
       "ecole": "Hospitality & Tourism Business School",
@@ -114,7 +107,7 @@
     },
     {
       "type": "Bachelor",
-      "nom": "BACHELOR Marketin Hôtelier & Touristiquel",
+      "nom": "BACHELOR Marketing Hôtelier & Touristique",
       "lieux": ["Brest","Angers","Caen"],
       "ecole": "Hospitality & Tourism Business School",
       "lien": "https://reseau-opencampus.com/htbs-bretagne-bachelor-marketing-hotelier-touristique-1-an/"
