@@ -212,21 +212,6 @@
       "rncp": "https://www.francecompetences.fr/recherche/rncp/40377/  + https://www.francecompetences.fr/recherche/rncp/36905/",
       "date-ajout": "28/03/2025"
     },
-        {
-      "type": "BTS",
-      "nom": "Formation Continue Développeur Integrateur de Médias Interactifs",
-      "lieux": ["Angers", "Brest"],
-      "ecole": "La Digital School",
-      "lien": "https://reseau-opencampus.com/la-digital-school-formation-continue/",
-      "date": "Septembre 2025",
-      "niveau": "BAC + 2",
-      "duree": "8 mois",
-      "admission": "Initial",
-      "diplome": "Diplôme reconnu par l'État",
-      "credit": "60 crédits ECTS",
-      "rncp": "https://www.francecompetences.fr/recherche/rncp/37674/",
-      "date-ajout": "01/09/2023"
-    },
     {
       "type": "BTS",
       "nom": "BTS Tourisme",
