@@ -13,7 +13,8 @@
       "diplome": "Diplôme reconnu par l'État",
       "credit": "120 crédits ECTS",
       "rncp": "https://www.francecompetences.fr/recherche/rncp/38362/",
-      "date-ajout": "01/01/2024"
+      "date-ajout": "01/01/2024",
+      "site": ["OC"]
     },
     {
       "type": "Bachelor",
@@ -28,7 +29,8 @@
       "diplome": "Diplôme reconnu par l'État",
       "credit": "60  crédits ECTS",
       "rncp": "https://www.francecompetences.fr/recherche/rncp/34734/",
-      "date-ajout": "30/06/2020"
+      "date-ajout": "30/06/2020",
+      "site": ["OC"]
 
     },
     {
@@ -44,7 +46,8 @@
       "diplome": "Diplôme reconnu par l'État",
       "credit": "120 crédits ECTS",
       "rncp": "https://www.francecompetences.fr/recherche/rncp/37635/",
-      "date-ajout": "31/05/2023"
+      "date-ajout": "31/05/2023",
+      "site": ["OC"]
 
     },
     {
@@ -60,7 +63,8 @@
       "diplome": "Diplôme reconnu par l'État",
       "credit": "120 crédits ECTS",
       "rncp": "https://www.francecompetences.fr/recherche/rncp/35340/",
-      "date-ajout": "01/09/2020"
+      "date-ajout": "01/09/2020",
+      "site": ["OC"]
     },
     {
       "type": "Bachelor",
@@ -75,7 +79,8 @@
       "diplome": "Diplôme reconnu par l'État",
       "credit": "60  crédits ECTS",
       "rncp": "https://www.francecompetences.fr/recherche/rncp/37873/",
-      "date-ajout": "18/12/2023"
+      "date-ajout": "18/12/2023",
+      "site": ["OC"]
     },
         {
       "type": "Bachelor",
@@ -90,7 +95,8 @@
       "diplome": "Diplôme reconnu par l'État",
       "credit": "60  crédits ECTS",
       "rncp": "https://www.francecompetences.fr/recherche/rncp/37680/",
-      "date-ajout": "01/09/2023"
+      "date-ajout": "01/09/2023",
+      "site": ["OC"]
     },
     {
       "type": "Mastere",
@@ -105,7 +111,8 @@
       "diplome": "Diplôme reconnu par l'État",
       "credit": "120 crédits ECTS",
       "rncp": "https://www.francecompetences.fr/recherche/rncp/38822/",
-      "date-ajout": "27/03/2024"
+      "date-ajout": "27/03/2024",
+      "site": ["OC"]
     },
     {
       "type": "Mastere",
@@ -120,7 +127,8 @@
       "diplome": "Diplôme reconnu par l'État",
       "credit": "120 crédits ECTS",
       "rncp": "https://www.francecompetences.fr/recherche/rncp/38823/",
-      "date-ajout": "27/03/2024"
+      "date-ajout": "27/03/2024",
+      "site": ["OC"]
     },
     {
       "type": "Bachelor",
@@ -135,7 +143,8 @@
       "diplome": "Diplôme reconnu par l'État",
       "credit": "180 crédits ECTS",
       "rncp": "https://www.francecompetences.fr/recherche/rncp/34317/",
-      "date-ajout": "18/11/2019"
+      "date-ajout": "18/11/2019",
+      "site": ["OC"]
     },
     {
       "type": "Mastere",
@@ -150,7 +159,8 @@
       "diplome": "Diplôme reconnu par l'État",
       "credit": "120 crédits ECTS",
       "rncp": "https://www.francecompetences.fr/recherche/rncp/36982/",
-      "date-ajout": "24/10/2022"
+      "date-ajout": "24/10/2022",
+      "site": ["OC"]
     },
     {
       "type": "BTS",
@@ -165,7 +175,8 @@
       "diplome": "Diplôme reconnu par l'État",
       "credit": "120 crédits ECTS",
       "rncp": "https://www.francecompetences.fr/recherche/rncp/38368/",
-      "date-ajout": "01/01/2024"
+      "date-ajout": "01/01/2024",
+      "site": ["OC"]
     },
     {
       "type": "Bachelor",
@@ -180,7 +191,8 @@
       "diplome": "Diplôme reconnu par l'État",
       "credit":"180 crédits ECTS",
       "rncp": "https://www.francecompetences.fr/recherche/rncp/34340/",
-      "date-ajout": "16/12/2019"
+      "date-ajout": "16/12/2019",
+      "site": ["OC"]
     },
     {
       "type": "Bachelor",
@@ -195,7 +207,8 @@
       "diplome": "Diplôme reconnu par l'État",
       "credit": "60  crédits ECTS",
       "rncp": "https://www.francecompetences.fr/recherche/rncp/40377/",
-      "date-ajout": "28/03/2025"
+      "date-ajout": "28/03/2025",
+      "site": ["OC"]
     },
     {
       "type": "Mastere",
@@ -210,7 +223,8 @@
       "diplome": "Diplôme reconnu par l'État",
       "credit": "120 crédits ECTS",
       "rncp": "https://www.francecompetences.fr/recherche/rncp/40377/  + https://www.francecompetences.fr/recherche/rncp/36905/",
-      "date-ajout": "28/03/2025"
+      "date-ajout": "28/03/2025",
+      "site": ["OC"]
     },
     {
       "type": "BTS",
@@ -225,7 +239,8 @@
       "diplome": "Diplôme reconnu par l'État",
       "credit": "120 crédits ECTS",
       "rncp": "https://www.francecompetences.fr/recherche/rncp/37890/",
-      "date-ajout": "01/09/2023"
+      "date-ajout": "01/09/2023",
+      "site": ["OC"]
     },
     {
       "type": "Bachelor",
@@ -240,7 +255,8 @@
       "diplome": "Diplôme reconnu par l'État",
       "credit": "60  crédits ECTS",
       "rncp": "https://www.francecompetences.fr/recherche/rncp/34465/",
-      "date-ajout": "02/03/2020"
+      "date-ajout": "02/03/2020",
+      "site": ["OC"]
     },
     {
       "type": "Mastere",
@@ -255,7 +271,8 @@
       "diplome": "Diplôme reconnu par l'État",
       "credit": "120 crédits ECTS",
       "rncp": "https://www.francecompetences.fr/recherche/rncp/35208/",
-      "date-ajout": "20/01/2021"
+      "date-ajout": "20/01/2021",
+      "site": ["OC"]
     },
     {
       "type": "BTS",
@@ -270,7 +287,8 @@
       "diplome": "Diplôme reconnu par l'État",
       "credit": "120 crédits ECTS",
       "rncp": "https://www.francecompetences.fr/recherche/rncp/38380/",
-      "date-ajout": "01/01/2024"
+      "date-ajout": "01/01/2024",
+      "site": ["OC"]
     },
     {
       "type": "Bachelor",
@@ -285,7 +303,8 @@
       "diplome": "Diplôme reconnu par l'État",
       "credit": "60  crédits ECTS",
       "rncp": "https://www.francecompetences.fr/recherche/rncp/36382/",
-      "date-ajout": "25/04/2022"
+      "date-ajout": "25/04/2022",
+      "site": ["OC"]
     },
     {
       "type": "Mastere",
@@ -300,7 +319,8 @@
       "diplome": "Diplôme reconnu par l'État",
       "credit": "120 crédits ECTS",
       "rncp": "https://www.francecompetences.fr/recherche/rncp/40257/ + https://www.francecompetences.fr/recherche/rncp/35438/",
-      "date-ajout": "20/01/2021 +  17-03-2021 "
+      "date-ajout": "20/01/2021 +  17-03-2021 ",
+      "site": ["OC"]
     },
     {
       "type": "Bachelor",
@@ -315,7 +335,8 @@
       "diplome": "Diplôme reconnu par l'État",
       "credit": "180 crédits ECTS",
       "rncp": "https://www.francecompetences.fr/recherche/rncp/34919/",
-      "date-ajout": "14/09/2020"
+      "date-ajout": "14/09/2020",
+      "site": ["OC"]
     },
     {
       "type": "Mastere",
@@ -330,7 +351,8 @@
       "diplome": "Diplôme reconnu par l'État",
       "credit": "120 crédits ECTS",
       "rncp": "https://www.francecompetences.fr/recherche/rncp/37156/",
-      "date-ajout": "14/12/2022"
+      "date-ajout": "14/12/2022",
+      "site": ["OC"]
     },
     {
       "type": "Bachelor",
@@ -345,7 +367,8 @@
       "diplome": "Diplôme reconnu par l'État",
       "credit": "180 crédits ECTS",
       "rncp": "https://www.francecompetences.fr/recherche/rncp/37081/",
-      "date-ajout": "23/11/2022"
+      "date-ajout": "23/11/2022",
+      "site": ["OC"]
     },
     {
       "type": "Bachelor",
@@ -360,7 +383,8 @@
       "diplome": "Diplôme reconnu par l'État",
       "credit": "180 crédits ECTS",
       "rncp": "https://www.francecompetences.fr/recherche/rncp/34465/",
-      "date-ajout": "02/03/2020"
+      "date-ajout": "02/03/2020",
+      "site": ["OC"]
     },
     {
       "type": "Mastere",
@@ -375,7 +399,8 @@
       "diplome": "Diplôme reconnu par l'État",
       "credit": "120 crédits ECTS",
       "rncp": "https://www.francecompetences.fr/recherche/rncp/40257/",
-      "date-ajout": "20/01/2021"
+      "date-ajout": "20/01/2021",
+      "site": ["OC"]
     },
     {
       "type": "BTS",
@@ -390,7 +415,24 @@
       "diplome": "Diplôme reconnu par l'État",
       "credit": "120 crédits ECTS",
       "rncp": "https://www.francecompetences.fr/recherche/rncp/38575/",
-      "date-ajout": "23/01/2024"
-    } 
+      "date-ajout": "23/01/2024",
+      "site": ["OC"]
+    },
+    {
+      "type": "BTS",
+      "nom": "BTS MCO",
+      "lieux": ["Brest", "Angers", "Caen", "Rennes"],
+      "ecole": "Pôle BTS Alternance",
+      "lien": "https://polebtsalternance.fr/nos-bts/pole-commerce/bts-management-commercial-operationnel/",
+      "date": "Septembre 2025",
+      "niveau": "BAC + 2",
+      "duree": "2 ans de formation, 1350h",
+      "admission": "Disponible en alternance",
+      "diplome": "Diplome de niveau 5 - RNCP 3862 ↗",
+      "credit": "120 crédits ECTS",
+      "rncp": "https://www.francecompetences.fr/recherche/rncp/38362/",
+      "date-ajout": "Cette certification prépare au métier de niveau 5, code NSF 310 et 312, enregistré pour 5 ans au RNCP le 01/01/2024 jusqu’au 31/12/2028, délivré par le <strong>Ministère de l’enseignement superieur et de la recherche.</strong>",
+      "site": ["PBA"]
+    }  
   ]
 }
