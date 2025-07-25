@@ -421,7 +421,7 @@
     {
       "type": "BTS",
       "nom": "BTS MCO",
-      "lieux": ["Brest", "Angers", "Caen", "Rennes"],
+      "lieux": ["Angers", "Brest", "Caen", "Rennes"],
       "ecole": "Pôle BTS Alternance",
       "lien": "https://polebtsalternance.fr/nos-bts/pole-commerce/bts-management-commercial-operationnel/",
       "date": "Septembre 2025",
