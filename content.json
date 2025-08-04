@@ -421,11 +421,11 @@
     {
       "type": "BTS",
       "nom": "BTS MCO",
-      "lieux": ["Angers", "Brest", "Caen", "Rennes"],
+      "lieux": ["Rennes"],
       "ecole": "Pôle BTS Alternance",
       "lien": "https://polebtsalternance.fr/nos-bts/pole-commerce/bts-management-commercial-operationnel/",
       "date": "Septembre 2025",
-      "niveau": "BAC + 2",
+      "niveau": "BAC + 12",
       "duree": "2 ans de formation, 1350h",
       "admission": "Disponible en alternance",
       "diplome": "Diplome de niveau 5 - RNCP 3862 ↗",
