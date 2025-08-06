@@ -689,6 +689,54 @@
       "rncp": "https://www.francecompetences.fr/recherche/rncp/37198/",
       "date-ajout": "Cette certification prépare au métier de niveau 5, code NSF 320, enregistré pour 5 ans au RNCP le 01/09/2023 jusqu’au 31/08/2028, délivré par le <strong>Ministère de l’enseignement supérieur et de la recherche.</strong>",
       "site": ["PBA"]
+    },   
+    {
+      "type": "BTS",
+      "nom": "BTS audio image",
+      "lieux": ["Rennes"],
+      "ecole": "Pôle BTS Alternance",
+      "lien": "https://polebtsalternance.fr/nos-bts/pole-communication-digital-informatique/bts-audiovisuel-2/",
+      "date": "Septembre 2025",
+      "niveau": "BAC + 2",
+      "duree": "2 ans de formation, 1350h",
+      "admission": "Disponible en alternance",
+      "diplome": "Diplôme de niveau 5 - RNCP 37021 ↗",
+      "credit": "120 crédits ECTS",
+      "rncp": "https://www.francecompetences.fr/recherche/rncp/37021/",
+      "date-ajout": "Cette certification prépare au métier de niveau 5, code NSF 323, enregistré pour 5 ans au RNCP le 01/09/2022 jusqu’au 31/08/2027, délivré par le <strong>Ministère de l’enseignement supérieur et de la recherche.</strong>",
+      "site": ["PBA"]
+    },   
+    {
+      "type": "BTS",
+      "nom": "BTS audio son",
+      "lieux": ["Rennes"],
+      "ecole": "Pôle BTS Alternance",
+      "lien": "https://polebtsalternance.fr/nos-bts/pole-communication-digital-informatique/bts-audiovisuel-2/",
+      "date": "Septembre 2025",
+      "niveau": "BAC + 2",
+      "duree": "2 ans de formation, 1350h",
+      "admission": "Disponible en alternance",
+      "diplome": "Diplôme de niveau 5 - RNCP 37196 ↗",
+      "credit": "120 crédits ECTS",
+      "rncp": "https://www.francecompetences.fr/recherche/rncp/37196/",
+      "date-ajout": "Cette certification prépare au métier de niveau 5, code NSF 323, enregistré pour 5 ans au RNCP le 01/09/2022 jusqu’au 31/08/2027, délivré par le <strong>Ministère de l’enseignement supérieur et de la recherche.</strong>",
+      "site": ["PBA"]
+    },   
+    {
+      "type": "BTS",
+      "nom": "BTS audio montage",
+      "lieux": ["Rennes"],
+      "ecole": "Pôle BTS Alternance",
+      "lien": "https://polebtsalternance.fr/nos-bts/pole-communication-digital-informatique/bts-audiovisuel-2/",
+      "date": "Septembre 2025",
+      "niveau": "BAC + 2",
+      "duree": "2 ans de formation, 1350h",
+      "admission": "Disponible en alternance",
+      "diplome": "Diplôme de niveau 5 - RNCP 37020 ↗",
+      "credit": "120 crédits ECTS",
+      "rncp": "https://www.francecompetences.fr/recherche/rncp/37020/",
+      "date-ajout": "Cette certification prépare au métier de niveau 5, code NSF 323, enregistré pour 5 ans au RNCP le 01/09/2022 jusqu’au 31/08/2027, délivré par le <strong>Ministère de l’enseignement supérieur et de la recherche.</strong>",
+      "site": ["PBA"]
     }
   ]
 }
