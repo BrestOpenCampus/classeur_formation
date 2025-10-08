@@ -324,18 +324,18 @@
     },
     {
       "type": "Bachelor",
-      "nom": "BACHELOR Responsable de Communication",
-      "lieux": ["Brest", "Caen"],
+      "nom": "BACHELOR Chargé de Communication",
+      "lieux": ["Brest"],
       "ecole": "SUP'DE COM",
       "lien": "https://reseau-opencampus.com/supdecom-bachelor-communication/",
       "date": "Septembre 2025",
       "niveau": "BAC + 3",
       "duree": "3 ans",
       "admission": "Initial, Alternance",
-      "diplome": "RNCP 34919 ↗",
+      "diplome": "RNCP 41125 ↗",
       "credit": "180 crédits ECTS",
-      "rncp": "https://www.francecompetences.fr/recherche/rncp/34919/",
-      "date-ajout": "14/09/2020",
+      "rncp": "https://www.francecompetences.fr/recherche/rncp/41125/",
+      "date-ajout": "18/07/2025",
       "site": ["OC"]
     },
     {
