@@ -84,7 +84,7 @@
     },
         {
       "type": "Bachelor",
-      "nom": "BACHELOR Administrateur Système et Réseau",
+      "nom": "BACHELOR Administrateur d'infrastructures sécurisées",
       "lieux": ["Angers", "Brest"],
       "ecole": "Learn IT",
       "lien": "https://reseau-opencampus.com/learn-it-bachelor-informatique-1-an/",
@@ -100,7 +100,7 @@
     },
     {
       "type": "Mastere",
-      "nom": "MASTERE Manager développement Programmation & Data/IA",
+      "nom": "MASTERE Expert en architecture et développement logiciel",
       "lieux": ["Angers", "Brest"],
       "ecole": "Learn IT",
       "lien": "https://reseau-opencampus.com/learn-it-mastere-informatique/",
