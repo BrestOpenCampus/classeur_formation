@@ -227,22 +227,6 @@
       "site": ["OC"]
     },
     {
-      "type": "BTS",
-      "nom": "BTS Tourisme",
-      "lieux": ["Angers", "Brest", "Caen"],
-      "ecole": "Hospitality & Tourism Business School",
-      "lien": "https://reseau-opencampus.com/htbs-bts-tourisme/",
-      "date": "Septembre 2025",
-      "niveau": "BAC + 2",
-      "duree": "2 ans",
-      "admission": "Initial",
-      "diplome": "RNCP 37890 ↗",
-      "credit": "120 crédits ECTS",
-      "rncp": "https://www.francecompetences.fr/recherche/rncp/37890/",
-      "date-ajout": "01/09/2023",
-      "site": ["OC"]
-    },
-    {
       "type": "Bachelor",
       "nom": "BACHELOR Marketing Hôtelier & Touristique",
       "lieux": ["Angers", "Brest", "Caen"],
@@ -272,22 +256,6 @@
       "credit": "120 crédits ECTS",
       "rncp": "https://www.francecompetences.fr/recherche/rncp/35208/",
       "date-ajout": "20/01/2021",
-      "site": ["OC"]
-    },
-    {
-      "type": "BTS",
-      "nom": "BTS Professions Immobilières",
-      "lieux": ["Brest","Caen"],
-      "ecole": "SUP IMMO",
-      "lien": "https://reseau-opencampus.com/sup-immo-bts-professions-immobilieres/",
-      "date": "Septembre 2025",
-      "niveau": "BAC + 2",
-      "duree": "2 ans",
-      "admission": "Initial",
-      "diplome": "RNCP 38380 ↗",
-      "credit": "120 crédits ECTS",
-      "rncp": "https://www.francecompetences.fr/recherche/rncp/38380/",
-      "date-ajout": "01/01/2024",
       "site": ["OC"]
     },
     {
