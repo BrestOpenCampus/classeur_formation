@@ -18,7 +18,7 @@
     },
     {
       "type": "Bachelor",
-      "nom": "BACHELOR Responsable d'activité",
+      "nom": "Bac +3 Responsable d'activité",
       "lieux": ["Brest"],
       "ecole": "IFAG",
       "lien": "https://reseau-opencampus.com/ifag-bachelor-en-1-an/",
@@ -68,10 +68,10 @@
     },
     {
       "type": "Bachelor",
-      "nom": "BACHELOR Concepteur développeur d'applications",
+      "nom": "Bac +3 Concepteur développeur d'applications",
       "lieux": ["Angers", "Brest"],
       "ecole": "Learn IT",
-      "lien": "https://reseau-opencampus.com/learn-it-bachelor-informatique-1-an/",
+      "lien": "https://reseau-opencampus.com/bac3-concepteur-developpeur-dapplications-learn-it/",
       "date": "Septembre 2025",
       "niveau": "BAC + 3",
       "duree": "1 an",
@@ -84,7 +84,7 @@
     },
         {
       "type": "Bachelor",
-      "nom": "BACHELOR Administrateur d'infrastructures sécurisées",
+      "nom": "Bac +3 Administrateur d'infrastructures sécurisées",
       "lieux": ["Angers", "Brest"],
       "ecole": "Learn IT",
       "lien": "https://reseau-opencampus.com/learn-it-bachelor-informatique-1-an/",
@@ -132,7 +132,7 @@
     },
     {
       "type": "Bachelor",
-      "nom": "BACHELOR Chargé de projets évènementiels",
+      "nom": "Bac +3 Chargé de projets évènementiels",
       "lieux": ["Brest"],
       "ecole": "School of Sport Business",
       "lien": "https://reseau-opencampus.com/school-of-sport-business-bachelor-en-1-an/",
@@ -180,7 +180,7 @@
     },
     {
       "type": "Bachelor",
-      "nom": "BACHELOR Animation 3D & Game Design",
+      "nom": "Animation 3D & Game Design",
       "lieux": ["Brest"],
       "ecole": "La Digital School",
       "lien": "https://reseau-opencampus.com/lds-bachelor-animation-3d-et-game-design/",
@@ -196,7 +196,7 @@
     },
     {
       "type": "Bachelor",
-      "nom": "BACHELOR Chef de Projet Digital",
+      "nom": "Bac +3 Chef de Projet Digital",
       "lieux": ["Angers", "Brest"],
       "ecole": "La Digital School",
       "lien": "https://reseau-opencampus.com/lds-bachelor-chef-de-projet-digital-1an/",
@@ -228,7 +228,7 @@
     },
     {
       "type": "Bachelor",
-      "nom": "BACHELOR Marketing Hôtelier & Touristique",
+      "nom": "Bac +3 Marketing Hôtelier & Touristique",
       "lieux": ["Angers", "Brest", "Caen"],
       "ecole": "Hospitality & Tourism Business School",
       "lien": "https://reseau-opencampus.com/htbs-bachelor-marketing-hotelier-touristique-1-an/",
@@ -260,7 +260,7 @@
     },
     {
       "type": "Bachelor",
-      "nom": "BACHELOR Négociateur Immobilier et Entrepreneuriat Immobilier",
+      "nom": "Bac +3 Négociateur Immobilier et Entrepreneuriat Immobilier",
       "lieux": ["Brest", "Caen"],
       "ecole": "SUP IMMO",
       "lien": "https://reseau-opencampus.com/sup-immo-bachelor-en-1-an/",
@@ -292,7 +292,7 @@
     },
     {
       "type": "Bachelor",
-      "nom": "BACHELOR Chargé de Communication",
+      "nom": "Bac +3 Chargé de Communication",
       "lieux": ["Brest"],
       "ecole": "SUP'DE COM",
       "lien": "https://reseau-opencampus.com/supdecom-bachelor-communication/",
@@ -324,7 +324,7 @@
     },
     {
       "type": "Bachelor",
-      "nom": "BACHELOR Styliste Modéliste",
+      "nom": "Bac +3 Styliste Modéliste",
       "lieux": ["Angers", "Brest", "Caen"],
       "ecole": "SUPDEMOD",
       "lien": "https://reseau-opencampus.com/supdemod-bachelor-styliste-modeliste/",
@@ -340,7 +340,7 @@
     },
     {
       "type": "Bachelor",
-      "nom": "BACHELOR Marketing de la Mode & du Luxe",
+      "nom": "Bac +3 Marketing de la Mode & du Luxe",
       "lieux": ["Angers", "Brest", "Caen"],
       "ecole": "SUPDEMOD",
       "lien": "https://reseau-opencampus.com/supdemod-bachelor-marketing-mode-luxe/",
