@@ -307,22 +307,6 @@
       "site": ["OC"]
     },
     {
-      "type": "Mastere",
-      "nom": "MASTERE Manager du Développement de Mode et Luxe",
-      "lieux": ["Angers", "Brest", "Caen"],
-      "ecole": "SUPDEMOD",
-      "lien": "https://reseau-opencampus.com/supdemod-mastere-manager-developpement-produits-mode-luxe/",
-      "date": "Septembre 2025",
-      "niveau": "BAC + 5",
-      "duree": "2 ans",
-      "admission": "Initial, Alternance",
-      "diplome": "RNCP 40257 ↗",
-      "credit": "120 crédits ECTS",
-      "rncp": "https://www.francecompetences.fr/recherche/rncp/40257/",
-      "date-ajout": "20/01/2021",
-      "site": ["OC"]
-    },
-    {
       "type": "BTS",
       "nom": "BAC + 2 Responsable de Petite et Moyenne Structure",
       "lieux": ["Brest"],
