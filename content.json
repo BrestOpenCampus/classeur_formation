@@ -309,7 +309,7 @@
     {
       "type": "BTS",
       "nom": "BAC + 2 Responsable de Petite et Moyenne Structure",
-      "lieux": ["Brest"],
+      "lieux": ["Brest", "Angers", "Caen"],
       "ecole": "PPI",
       "lien": "https://reseau-opencampus.com/formation-bac2-commerce-communication-management/",
       "date": "Septembre 2025",
