@@ -180,22 +180,6 @@
     },
     {
       "type": "Bachelor",
-      "nom": "Animation 3D & Game Design",
-      "lieux": ["Brest"],
-      "ecole": "La Digital School",
-      "lien": "https://reseau-opencampus.com/lds-bachelor-animation-3d-et-game-design/",
-      "date": "Septembre 2025",
-      "niveau": "BAC + 3",
-      "duree": "3 ans",
-      "admission": "Initial, Alternance",
-      "diplome": "RNCP 34340 ↗",
-      "credit":"180 crédits ECTS",
-      "rncp": "https://www.francecompetences.fr/recherche/rncp/34340/",
-      "date-ajout": "16/12/2019",
-      "site": ["OC"]
-    },
-    {
-      "type": "Bachelor",
       "nom": "Bac +3 Chef de Projet Digital",
       "lieux": ["Angers", "Brest"],
       "ecole": "La Digital School",
