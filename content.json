@@ -212,10 +212,10 @@
     },
     {
       "type": "Bachelor",
-      "nom": "Bac +3 Marketing Hôtelier & Touristique",
-      "lieux": ["Angers", "Brest", "Caen"],
+      "nom": "BAC +3 Responsable d'établissement touristique",
+      "lieux": ["Brest"],
       "ecole": "Hospitality & Tourism Business School",
-      "lien": "https://reseau-opencampus.com/htbs-bachelor-marketing-hotelier-touristique-1-an/",
+      "lien": "https://reseau-opencampus.com/bac3-responsable-detablissement-touristique-htbs/",
       "date": "Septembre 2025",
       "niveau": "BAC + 3",
       "duree":"1 an",
@@ -224,22 +224,6 @@
       "credit": "60  crédits ECTS",
       "rncp": "https://www.francecompetences.fr/recherche/rncp/35527/",
       "date-ajout": "08/04/2021",
-      "site": ["OC"]
-    },
-    {
-      "type": "Mastere",
-      "nom": "MASTERE Dirigeant Manager en Hôtellerie & Tourisme",
-      "lieux": ["Angers", "Brest", "Caen"],
-      "ecole": "Hospitality & Tourism Business School",
-      "lien": "https://reseau-opencampus.com/htbs-bretagne-mastere-hotellerie-tourisme/",
-      "date": "Septembre 2025",
-      "niveau": "BAC + 5",
-      "duree": "2 ans",
-      "admission": "Initial, Alternance",
-      "diplome": "RNCP 35208 ↗",
-      "credit": "120 crédits ECTS",
-      "rncp": "https://www.francecompetences.fr/recherche/rncp/35208/",
-      "date-ajout": "20/01/2021",
       "site": ["OC"]
     },
     {
