@@ -284,9 +284,9 @@
       "niveau": "BAC + 3",
       "duree": "3 ans",
       "admission": "Initial, Alternance",
-      "diplome": "RNCP 37081 ↗",
+      "diplome": "Diplôme école",
       "credit": "180 crédits ECTS",
-      "rncp": "https://www.francecompetences.fr/recherche/rncp/37081/",
+      "rncp": "#",
       "date-ajout": "23/11/2022",
       "site": ["OC"]
     },
