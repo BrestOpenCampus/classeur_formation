@@ -227,6 +227,22 @@
       "site": ["OC"]
     },
     {
+      "type": "Mastere",
+      "nom": "BAC +5 Manager Commercial et Marketing",
+      "lieux": ["Brest"],
+      "ecole": "Hospitality & Tourism Business School",
+      "lien": "https://reseau-opencampus.com/bac5-manager-commercial-et-marketing/",
+      "date": "Septembre 2025",
+      "niveau": "BAC + 5",
+      "duree":"1 an",
+      "admission": "Initial, Alternance",
+      "diplome": "RNCP 35208 ↗",
+      "credit": "60  crédits ECTS",
+      "rncp": "https://www.francecompetences.fr/recherche/rncp/35208/",
+      "date-ajout": "20/01/2021",
+      "site": ["OC"]
+    },
+    {
       "type": "Bachelor",
       "nom": "BAC +3 Responsable d’affaires immobilières",
       "lieux": ["Brest", "Caen"],
