@@ -245,7 +245,7 @@
     {
       "type": "Bachelor",
       "nom": "BAC +3 Responsable d’affaires immobilières",
-      "lieux": ["Brest", "Caen"],
+      "lieux": ["Brest"],
       "ecole": "SUP IMMO",
       "lien": "https://reseau-opencampus.com/bac3-responsable-daffaires-immobilieres-supimmo/",
       "date": "Septembre 2026",
@@ -261,7 +261,7 @@
     {
       "type": "Bachelor",
       "nom": "Bac +3 Chargé de Communication",
-      "lieux": ["Brest"],
+      "lieux": ["Brest","Caen"],
       "ecole": "SUP'DE COM",
       "lien": "https://reseau-opencampus.com/bac3-communication/",
       "date": "Septembre 2026",
